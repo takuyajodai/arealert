@@ -1,3 +1,2 @@
 # arealert
-# 
-# Xcode Ver 11.5
+Xcode Ver 11.5
